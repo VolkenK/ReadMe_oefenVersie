@@ -1,13 +1,16 @@
 # ReadMe oefen opdracht
 
-in dit voorbeeld maak ik een VR Rail shooter opdracht.
+Dit is een een inhaal opdracht om een ReadMe beschrijving goed te maken. 
+Voor de voorbeeld opdracht moet ik een VR onrail shooter maken.
+Dat houdt in dat ik in first person alle kanten op kan kijken terwijl ik automatich door een level heen beweeg en op enemies moet schieten. 
+Het tijdslimiet voor deze opdtacht is 2 weken.
 
 ## Features
 
 - [VR Compatability](https://github.com/VolkenK/ReadMe_oefenVersie/edit/master/README.md)
 - [Randomized events](https://github.com/VolkenK/ReadMe_oefenVersie/edit/master/README.md)
 - [Branching pathways](https://github.com/VolkenK/ReadMe_oefenVersie/edit/master/README.md)
-- [Dynamische difficulty slider](https://github.com/VolkenK/ReadMe_oefenVersie/edit/master/README.md)
+- [Dynamische difficulty](https://github.com/VolkenK/ReadMe_oefenVersie/edit/master/README.md)
 
 ## Software Anaylse 
 
@@ -24,12 +27,9 @@ Ik kies voor de Unity game-engine omdat dat de enige optie is waar ik niet een p
 
 ## Leerdoelen 
 - 360 graden movement in VR comfortabel laten werken.
-      *Niet misselijk worden van de ervaring.
-      *De gameplay past zich aan naar waar je heen kijkt.
-- automatische (onrail) movement maken.
-      *Een voor bepaald pad hebben.
-      *
-- events maken die de movement onderbreken.
+- Automatische (onrail) movement maken.
+- Events maken die de movement onderbreken.
+- Moeilijkheids graad automatisch laten aanpassen aan players skill niveau.
 
 ## Planning 
 Voor deze opdracht heb ik 2 weken de tijd.
@@ -37,7 +37,7 @@ Voor deze opdracht heb ik 2 weken de tijd.
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
 |week 1 | uitgetekend hoe ik deze game in elkaar zetten wil en wat ik moet programmeren en planning gemaakt | 360 graden bewegen en schieten + collision gemaakt. | onrail movement gemaakt en gestard aan event system | event system afgemaakt | enemies en spawn punten gemaakt
-|week 2 | branching pathways en automatisch difficulty slider geimplementeerd |2 extra enemie types gemaakt | powerup en health objecten gemaakt | begonnen met muziek, geluid en belichting toevoegen | werk van gisteren afgemaakt en inlever document ingevuld |
+|week 2 | branching pathways en automatisch difficulty slider geimplementeerd |2 extra enemy types gemaakt | powerup en health objecten gemaakt | begonnen met muziek, geluid en belichting toevoegen | werk van gisteren afgemaakt en inlever document ingevuld |
 
 ## Bronnen
 - [Unity API](https://docs.unity3d.com/ScriptReference/Mathf.Lerp.html)

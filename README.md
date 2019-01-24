@@ -11,20 +11,24 @@ in dit voorbeeld maak ik een VR Rail shooter opdracht.
 
 ## Software Anaylse 
 
-De Unity game-engine is goede optie. De benodigde tijd zal efficiënt gebruikt kunnen worden, omdat ik hier persoonlijke ervaring en kennis van C# mee heb. Daarnaast is het makkelijk om documentatie te vinden in Unity. Dus hiermee is de opdracht goed haalbaar.
+De Unity game-engine is goede optie. De benodigde tijd zal efficiënt gebruikt kunnen worden, omdat ik hier persoonlijke ervaring en kennis van C# mee heb, en dus minder in hoef te verdiepen. Daarnaast is het makkelijk om documentatie te vinden in Unity. Dus hiermee is de opdracht goed haalbaar.
 
-De GameMaker game-engine is ook mogenlijk, maar hier ben ik minder bekend mee. In de periode die ik heb voor de opdracht zal ik tijd moeten maken om weer bekend te worden mer de GameMaker Language. Dit is dus geen efficiënte optie.
+De GameMaker game-engine is ook mogelijk, maar hier ben ik minder bekend mee. In de periode die ik heb voor de opdracht zal ik tijd moeten maken om weer bekend te worden mer de GameMaker Language. Dit is dus een minder efficiënte optie.
 
-De MonoGame game-engine ligt daar in tegen meer geschikt. Dit is omdat de engine, net als Unity, ook met C# werkt. Echter heb ik geen ervaring met deze game-engine. dus ook voor deze engine zou ik tijd moeten reserveren om hiermee om te leren gaan. Inverband met het korte tijds limiet is dit ook geen goede optie.
+De MonoGame game-engine zou daarin tegen meer geschikt zijn. Dit is omdat de engine, net als Unity, ook met C# werkt. Echter heb ik geen ervaring met deze game-engine. Dus ook voor deze engine zou ik tijd moeten reserveren om hiermee om te leren gaan. In verband met het korte tijdslimiet is dit een minder goede optie.
 
-De Unreal game-ngine is ook niet erg verstandig. Ik heb de engine nooit gebruikt en ik heb ook onvoldoende kennis van C++ om daar optijd mee te leren werken. Daarom is dit de meest onverstandige optie om te nemen.
+De Unreal game-engine is ook niet erg verstandig, ik heb de engine nooit gebruikt en ik heb ook onvoldoende kennis van C++ om daar binnen het tijdslimiet mee te leren werken. Daarom is dit de meest onverstandige optie om te nemen.
 
 Mijn conclusie:
-Ik kier voor de Unity game-engine omdat dat de enigste optie is waar ik niet een (her)leer periode aan hoef te besteden om aan de slag te gaan. En aangezien ik maar 2 weken heb voor deze opdracht lijkt mij dat elke extra dag werk goed mee genomen is.
+Ik kies voor de Unity game-engine omdat dat de enige optie is waar ik niet een periode aan hoef te besteden aan herleren om aan de slag te gaan. En aangezien ik maar 2 weken tijd heb voor deze opdracht lijkt het mij dat elke extra dag werk goed mee genomen is.
 
 ## Leerdoelen 
 - 360 graden movement in VR comfortabel laten werken.
+      *Niet misselijk worden van de ervaring.
+      *De gameplay past zich aan naar waar je heen kijkt.
 - automatische (onrail) movement maken.
+      *Een voor bepaald pad hebben.
+      *
 - events maken die de movement onderbreken.
 
 ## Planning 
